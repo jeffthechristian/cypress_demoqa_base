@@ -1,6 +1,6 @@
 {
-  "fullName": "George Junior",
-  "email": "somerandomemail@randomdomain.com",
-  "currentAddress": "Some Random Address in some place",
-  "permanentAddress": "Some Permanent address"
+    "fullName": "George Junior",
+    "email": "randomemail@randomdomain.com",
+    "currentAddress": "Random address in a random place",
+    "permanentAddress": "A permanent address"
 }
